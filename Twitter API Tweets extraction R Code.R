@@ -15,13 +15,13 @@ library(base64enc)
 #############################################
 # options(httr_oauth_cache=T)
 
-api_key <- "V9olxusN5PbnWHIGoRlXXXXXXXXXXXXX"   #Consumer key: *
+api_key <- "lXXXXXXXXXXXXX"   #Consumer key: *
 
-api_secret <- "ZJD4Ri2vE24iYJr2Y2fUotDwLbvE5IXXXXXXXXXXXXXXXXXXXX"   # Consumer secret: *
+api_secret <- "XXXXXXXXXXXXXXXXXXXX"   # Consumer secret: *
 
-access_token <- "2889837547-u9URK5Vuad0dlbB6j8kwIdr4aXXXXXXXXXXXXXXXX"  # Access token: 
+access_token <- "6j8kwIdr4aXXXXXXXXXXXXXXXX"  # Access token: 
 
-access_token_secret <- "8kfmatVED7RgIOsSTTu17SgiNVxdXXXXXXXXXXXXXXXXXXXXXXX" # Access token secret: 
+access_token_secret <- "dXXXXXXXXXXXXXXXXXXXXXXX" # Access token secret: 
 
 # After this line of command type 1 for selection as Yes 
 
